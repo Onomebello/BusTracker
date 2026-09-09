@@ -9,3 +9,4 @@ export { Avatar } from "./Avatar";
 export { Field } from "./Field";
 export { IconSymbol, type IconName } from "./IconSymbol";
 export { EtaHero } from "./EtaHero";
+export { RouteMap } from "./RouteMap";

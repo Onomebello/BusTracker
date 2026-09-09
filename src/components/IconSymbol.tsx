@@ -2,6 +2,7 @@ import {
   Platform,
   type ColorValue,
   type StyleProp,
+  type TextStyle,
   type ViewStyle,
 } from "react-native";
 import { SymbolView, type SFSymbol } from "expo-symbols";
@@ -74,5 +75,12 @@ export function IconSymbol({ name, size = 20, color, style }: IconSymbolProps) {
     );
   }
 
-  return <Ionicons name={entry.ionicon} size={size} color={color} style={style} />;
+  return (
+    <Ionicons
+      name={entry.ionicon}
+      size={size}
+      color={color}
+      style={style as StyleProp<TextStyle>}
+    />
+  );
 }
