@@ -47,6 +47,7 @@ const REGISTRY = {
   pin: { ios: "mappin.and.ellipse", ionicon: "location" },
   bus: { ios: "bus.fill", ionicon: "bus" },
   star: { ios: "star.fill", ionicon: "star" },
+  send: { ios: "paperplane.fill", ionicon: "send" },
 } as const satisfies Record<string, { ios: SFSymbol; ionicon: IoniconName }>;
 
 export type IconName = keyof typeof REGISTRY;
