@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 720 1280">
+<rect width="720" height="1280" fill="#f2f2f7"/>
+<rect x="110" y="40" width="500" height="1200" rx="54" fill="#111"/>
+<rect x="124" y="54" width="472" height="1172" rx="42" fill="#f2f2f7"/>
+<rect x="294" y="70" width="132" height="28" rx="14" fill="#111"/>
+<text x="156" y="170" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#111">Your details</text>
+<text x="156" y="232" font-family="Arial,sans-serif" font-size="20" fill="#666">Just one more step, Damilola.</text>
+<text x="156" y="262" font-family="Arial,sans-serif" font-size="20" fill="#666">We'll use your number for pickup updates.</text>
+<text x="156" y="350" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#111">CONTACT NUMBER</text>
+<rect x="144" y="374" width="432" height="76" rx="14" fill="#fff"/>
+<text x="168" y="420" font-family="Arial,sans-serif" font-size="20" fill="#8a8a90">+234 800 000 0000</text>
+<text x="156" y="538" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#111">LINKED CHILDREN</text>
+<rect x="144" y="562" width="432" height="146" rx="14" fill="#fff"/>
+<circle cx="188" cy="610" r="22" fill="#d9e8ff"/><text x="188" y="617" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#007aff">AO</text>
+<text x="228" y="608" font-family="Arial,sans-serif" font-size="19" fill="#111">Amara Okafor</text><text x="228" y="635" font-family="Arial,sans-serif" font-size="16" fill="#777">Primary 4</text>
+<line x1="228" y1="662" x2="550" y2="662" stroke="#ddd"/>
+<circle cx="188" cy="688" r="22" fill="#d9e8ff"/><text x="188" y="695" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#007aff">CO</text>
+<text x="228" y="686" font-family="Arial,sans-serif" font-size="19" fill="#111">Chidi Okafor</text><text x="228" y="713" font-family="Arial,sans-serif" font-size="16" fill="#777">Primary 2</text>
+<rect x="144" y="770" width="432" height="58" rx="12" fill="#007aff"/><text x="360" y="807" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">Continue</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 720 1280">
+<rect width="720" height="1280" fill="#f2f2f7"/>
+<rect x="110" y="40" width="500" height="1200" rx="54" fill="#111"/>
+<rect x="124" y="54" width="472" height="1172" rx="42" fill="#fff"/>
+<rect x="294" y="70" width="132" height="28" rx="14" fill="#111"/>
+<text x="360" y="295" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#111">BusTracker</text>
+<text x="360" y="335" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#6b6b73">See your child's bus, in real time.</text>
+<rect x="160" y="420" width="400" height="190" rx="16" fill="#f2f2f7"/>
+<text x="184" y="460" font-family="Arial,sans-serif" font-size="16" fill="#555">EMAIL</text>
+<text x="184" y="496" font-family="Arial,sans-serif" font-size="21" fill="#111">you@example.com</text>
+<line x1="184" y1="520" x2="536" y2="520" stroke="#c7c7cc"/>
+<text x="184" y="564" font-family="Arial,sans-serif" font-size="16" fill="#555">PASSWORD</text>
+<text x="184" y="598" font-family="Arial,sans-serif" font-size="21" fill="#111">••••••••</text>
+<rect x="160" y="650" width="400" height="58" rx="12" fill="#007aff"/>
+<text x="360" y="687" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">Sign in</text>
+<text x="360" y="770" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#6b6b73">New here? <tspan fill="#007aff" font-weight="700">Create an account</tspan></text>
+</svg>
